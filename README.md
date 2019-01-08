@@ -1,6 +1,10 @@
 ### In-Flight-Ad-Simulation
 ## Simulation : In Flight Entertainment System and Ad Delivery
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CEgglbBGSBs
+" target="_blank"><img src="http://img.youtube.com/vi/CEgglbBGSBs/0.jpg" 
+alt="VIDEO DEMO" width="240" height="180" border="10" /></a>
+
 ## Dependency and Requirements:
 - Qt 4.8.1
 - libvlc
