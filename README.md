@@ -1,5 +1,5 @@
 ### In-Flight-Ad-Simulation
-## Simulation the In Flight Entertainment System and Ad Delivery
+## Simulation : In Flight Entertainment System and Ad Delivery
 
 ## Dependency and Requirements:
 - Qt 4.8.1
